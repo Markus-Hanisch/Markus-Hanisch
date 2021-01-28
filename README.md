@@ -9,7 +9,7 @@ At my job I "specialize" in Microsoft 365 product portfolio. This includes:
 - Microsoft 365 administration, e.g. Exchange Online, Microsoft Azure, (Azure) Active Directory, Microsoft Teams, Microsoft SharePoint Online, Microsoft Power Platform, Microsoft Dynamics 365, etc.
 - in-house consulting, project management and solution implementation, documentation and training.
 - I'm keen to learn more about automation, DevOps and agile project management
-- In my job I mainly use PowerShell, Microsoft 365 admin center, Microsoft Power Platform and Azure DevOps. 💖 Patterns & Practices + Microsoft365DSC
+- In my job I mainly use PowerShell, Microsoft 365 admin center, Microsoft Power Platform and Azure DevOps.
 
 
 I'm also a very passionate Microsoft 365 and PowerShell enthuiast. I regularly attend various [Meetups](https://www.meetup.com/de-DE/members/206331949) and continuously acquire knowledge by means of blogs, MOOCs and platforms like [Microsoft Learn](https://docs.microsoft.com/en-us/users/markushanisch).
