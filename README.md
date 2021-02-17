@@ -28,7 +28,7 @@ I'm also a very passionate Microsoft 365 and PowerShell enthuiast. I regularly a
 ### Favorite Projects:
 
 [<img align="left" alt="Microsoft 365 Patterns & Practices" width="22px" src="https://avatars.githubusercontent.com/u/31443929?s=200&v=4" />][m365pnp]
-[<img align="left" alt="Microsoft 365 DSC" width="22px" src="https://microsoft365dsc.com/Images/M365DSC-InfoGraphic.png" />][microsoft365dsc]
+[<img align="left" alt="Microsoft 365 DSC" width="22px" src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" />][microsoft365dsc]
 
 <br />
 
